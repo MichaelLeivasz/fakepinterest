@@ -1,5 +1,4 @@
 # FakePinterest
-## Deploy: ([https://fkpinterest-40934cbefbff.herokuapp.com/](https://fpinterest-4398a4cdefa1.herokuapp.com/))
 
 Uma cópia do Pinterest, com algumas das principais funcionalidade do site.
 
